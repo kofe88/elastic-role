@@ -1,4 +1,6 @@
 galaxy_info:
+  role_name: elastic_role
+  namespace: netology
   author: Alexey Metlyakov
   description: Install elasticsearch from remote server
   company: Netology
